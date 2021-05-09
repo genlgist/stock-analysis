@@ -20,10 +20,10 @@ The information provided for each stock includes the opening value, high value, 
 
 ## Results
 
-##Analysis
+## Analysis
 I created nested for loops to loop through all the rows of the spreadsheet analyzing the starting and ending rows for each ticker.  The output arrays of tickerVolumes, tickerStartingPrices and tickerEndingPrices using the variable tickerIndex allowed me to output the ticker, total daily volume and return columns on the spreadsheet.
 
-##Thoughts on Refactoring
+## Thoughts on Refactoring
 Refactoring cleans up the code, making it more organized and allowing it to run faster.  It is easier to read and more concise.   While doing so, the programmer is altering code that originally worked and could make syntax errors that would deem the code unusable.
 
 
