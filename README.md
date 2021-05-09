@@ -20,7 +20,7 @@ The information provided for each stock includes the opening value, high value, 
 
 ## Results
 
-#Analysis
+##Analysis
 I created nested for loops to loop through all the rows of the spreadsheet analyzing the starting and ending rows for each ticker.  The output arrays of tickerVolumes, tickerStartingPrices and tickerEndingPrices using the variable tickerIndex allowed me to output the ticker, total daily volume and return columns on the spreadsheet.
 
 ##Thoughts on Refactoring
